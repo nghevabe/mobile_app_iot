@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "44919391782",
+    "firebase_url": "https://iot-server-edaa9-default-rtdb.firebaseio.com",
+    "project_id": "iot-server-edaa9",
+    "storage_bucket": "iot-server-edaa9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44919391782:android:6f0ad464fc257af7b948e7",
+        "android_client_info": {
+          "package_name": "com.example.falldetectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6yaz-MyyNjEGlYLZH6UoaDq40ZlNV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44919391782-84egruq3jkkhjtak3nila3eegvf5kj7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lightController"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44919391782:android:dd7d5cbb7509d443b948e7",
+        "android_client_info": {
+          "package_name": "com.example.iotwatchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6yaz-MyyNjEGlYLZH6UoaDq40ZlNV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44919391782-84egruq3jkkhjtak3nila3eegvf5kj7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lightController"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44919391782:android:40a519bd80d5896eb948e7",
+        "android_client_info": {
+          "package_name": "com.example.light_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6yaz-MyyNjEGlYLZH6UoaDq40ZlNV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44919391782-84egruq3jkkhjtak3nila3eegvf5kj7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lightController"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44919391782:android:7c2270e19163bd6cb948e7",
+        "android_client_info": {
+          "package_name": "com.example.smartwear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6yaz-MyyNjEGlYLZH6UoaDq40ZlNV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44919391782-84egruq3jkkhjtak3nila3eegvf5kj7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lightController"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44919391782:android:2bf90159cc089d1db948e7",
+        "android_client_info": {
+          "package_name": "com.example.testfcmmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6yaz-MyyNjEGlYLZH6UoaDq40ZlNV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44919391782-ebk4n4g9b89qm7sqoshf736oscls1tek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44919391782-84egruq3jkkhjtak3nila3eegvf5kj7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lightController"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
